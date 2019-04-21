@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<collection>
+    <question title="以下哪一个是Python合法的标识符？">
+        <answer>
+            <a>_name</a>
+            <b>1name</b>
+            <c>stu-name</c>
+            <d>stu.name</d>
+        </answer>
+        <correct>1</correct>
+    </question>
+    <question title="以下不能作为字典的key的是哪一个选项？">
+        <answer>
+            <a>2016</a>
+            <b>'china'</b>
+            <c>listA=['Name']</c>
+            <d>tupleA=(123)</d>
+        </answer>
+        <correct>3</correct>
+    </question>
+    <question title="以下关于Python的赋值说法中错误的是哪一项？">
+        <answer>
+            <a>Python 中的变量在使用前必须赋值，变量赋值后该变量才会被创建。</a>
+            <b>Python 支持多元赋值和多重赋值</b>
+            <c>Python 赋值时大小写敏感</c>
+            <d>Python中要首先声明变量的类型后才能给该变量赋值。</d>
+        </answer>
+        <correct>4</correct>
+    </question>
+    <question title="如果需要在文本文件test.txt的中间部分添加一行字符串，以下open语句的mode位置应该选择以下哪一项？">
+        <answer>
+            <a>a</a>
+            <b>r+</b>
+            <c>w+</c>
+            <d>a+</d>
+        </answer>
+        <correct>3</correct>
+    </question>
+    <question title="以下哪个是不合法的布尔表达式？">
+        <answer>
+            <a>x in range(6)</a>
+            <b>3=a</b>
+            <c>e>5 and 4==f</c>
+            <d>(x>6)>5</d>
+        </answer>
+        <correct>2</correct>
+    </question>
+    <question title="以下哪项不是Python支持的数据类型？">
+        <answer>
+            <a>char</a>
+            <b>int</b>
+            <c>float</c>
+            <d>list</d>
+        </answer>
+        <correct>1</correct>
+    </question>
+    <question title="以下不能创建一个字典的词句是？">
+        <answer>
+            <a>dic1 = {}</a>
+            <b>dic2 = {123:345}</b>
+            <c>dic3 = {[1,2,3]:'uestc'}</c>
+            <d>dic4 = {(1,2,3):'uestc'}</d>
+        </answer>
+        <correct>3</correct>
+    </question>
+    <question title="在python3下输入100000000L，会得到以下哪个显示？">
+        <answer>
+            <a>100000000L</a>
+            <b>100000000</b>
+            <c>SyntaxError: invalid syntax</c>
+            <d>1e8</d>
+        </answer>
+        <correct>3</correct>
+    </question>
+    <question title="Python3中获取用户输入并默认以字符串存储的函数是？">
+        <answer>
+            <a>raw_input</a>
+            <b>input</b>
+            <c>raw</c>
+            <d>print</d>
+        </answer>
+        <correct>2</correct>
+    </question>
+    <question title="float('inf')-1执行后的结果是什么？">
+        <answer>
+            <a>1</a>
+            <b>inf</b>
+            <c>-inf</c>
+            <d>0</d>
+        </answer>
+        <correct>2</correct>
+    </question>
+    <question title="表达式sum(range(5))的值为什么？">
+        <answer>
+            <a>9</a>
+            <b>10</b>
+            <c>11</c>
+            <d>12</d>
+        </answer>
+        <correct>2</correct>
+    </question>
+    <question title="下面哪个不是Python合法的标识符？">
+        <answer>
+            <a>int32</a>
+            <b>40XL</b>
+            <c>self</c>
+            <d>__name__</d>
+        </answer>
+        <correct>2</correct>
+    </question>
+
+</collection>
