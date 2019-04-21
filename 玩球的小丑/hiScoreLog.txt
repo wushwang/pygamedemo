@@ -1,0 +1,11 @@
+ --------------------------
+|BALL SPORT -- HI-SCORE LOG|
+ --------------------------
+
+The following are all Hi-Scores since first game: 
+0
+10
+30
+50
+100
+110
